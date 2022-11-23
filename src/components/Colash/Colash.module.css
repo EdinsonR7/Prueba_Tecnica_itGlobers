@@ -1,0 +1,29 @@
+.colash img{
+    margin: auto;
+    display: block;
+    float: center; 
+    border: 5px solid rgb(232, 232, 239);
+    width: 300px;
+    height: 250px;
+    right: 30%;
+    left: 30%
+}
+
+.text h1{
+    text-align: center;
+    left: 70px;
+    right: 50px;
+}
+
+.text2 h6{
+    text-align: center;
+    position: relative;
+    color: gray;
+    left: 5px;
+    right: 50px;
+    top: 28px;
+}
+
+.text.text2{
+    text-justify: center;
+}

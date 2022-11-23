@@ -1,0 +1,62 @@
+.pufi h1{
+  text-align: isquir;
+  color:red;
+  position : relative;
+  top: 210px
+}
+
+ .h6 span{
+  display: block;
+  position : relative;
+  left: 250px;
+  top: 156px;
+}
+
+.contactosh6 span{
+  display: block;
+  position : relative;
+  left: 500px;
+  top: 70px;
+  
+}
+
+.qr img{
+  float: right;
+  width: 50px;
+  height: 50px;
+  position : absolute;
+  top: 111;
+  left: 92%;
+}
+
+.seguro h6{
+  text-align-last:justify;
+  position : absolute;
+  left: 1100px;
+  top: 570%;
+}
+
+#footer {
+  width: 50%;
+  height: 81 pixels;
+  position : absolute;
+  bottom : 0 ;
+  left : 0 ;
+}
+
+.redes img{
+  float: right;
+  width: 50px;
+  height: 50px;
+  position :relative;
+  top: 220px;
+  left: -30%;
+
+}
+
+.redesparr h5{
+  color:rgb(25, 14, 14);
+  position : relative;
+  top: 280px;
+  left: 50%;
+}

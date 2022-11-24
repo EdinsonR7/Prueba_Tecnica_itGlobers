@@ -1,6 +1,7 @@
 import React from "react";
 import images from "../../image/images";
 import styles from './Articulos.module.css'
+import { Link } from "react-router-dom";
 
 const Articulos = () => {
   return (
@@ -20,6 +21,9 @@ const Articulos = () => {
        </div>
        <div className={styles.image2}>
         {images.articules0.map(e => <img src={e.name} alt="imagen" />)}</div>
+       </div>
+       <div className={styles.link}>
+        <Link>SHOP</Link>
        </div>
       </div>
 

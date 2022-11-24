@@ -1,11 +1,11 @@
-export const EMAIL_VALIDATIONS="GET_ALL_VALIDATIONS";
+export const FORM_EMAIL = "FORM_EMAIL"
 
 
-export const getValidations=() => {
-    return {
-        type:EMAIL_VALIDATIONS,
-    };
-      
+export const getValidations = (email) => {
+  return {
+    type: FORM_EMAIL,
+    payload: email
+  };
 
 };
- 
+

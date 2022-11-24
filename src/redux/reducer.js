@@ -1,21 +1,16 @@
-import {EMAIL_VALIDATIONS } from "./actions";
-
+import { FORM_EMAIL } from "./actions";
 
 const initialState = {
-    validations: []
-}
+  email: [],
+};
 
-export default function reducer(state= initialState, actions){
+export default function reducer(state = initialState, actions) {
+  switch (actions.type) {
 
-    switch (actions.type){
-        case EMAIL_VALIDATIONS:
-            return{
-            ...state,
-            validations: actions.payload
-            
-        
-            }
-        default:
-            return state
-    }
+    case FORM_EMAIL:
+      return {...state, email: [...state.email, actions.payload]}
+
+    default:
+      return state;
+  }
 }

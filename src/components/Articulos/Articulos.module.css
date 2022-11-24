@@ -20,6 +20,17 @@
 
 }
 
+.link{
+  color: rgb(233, 17, 17);
+  width: 150px;
+  height: 100px;
+  position : absolute;
+  top: 1000px;
+  left: 70%
+}
+
+
+
 
 
 
@@ -30,7 +41,8 @@
   height: 400px;
   position : absolute;
   top: -3px;
-  left: 112.5%
+  left: 112.5%;
+  ;
 
 }
 
@@ -53,7 +65,7 @@
     position: absolute;
     text-align: center;
     text-align-last:auto;
-    top: 60%;
+    top: 70%;
     left: 50px;
     right: 10px;
   }
@@ -66,7 +78,7 @@
     text-align: center;
     margin-bottom: 1rem;
     width: 100%;
-    top: 300px;
+    top: 255px;
     left: 40%;
     right: 10px;
 

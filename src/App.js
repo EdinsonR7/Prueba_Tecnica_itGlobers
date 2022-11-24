@@ -12,7 +12,6 @@ import Colash from './components/Colash/Colash.js'
 function App() {
   return (
     <div>
-     <>
       <LandingPage />
       <Articulos />
       <Articulos1 />
@@ -21,8 +20,7 @@ function App() {
        {/* <Articules /> */}
       <Colash /> 
       <Form />
-      {/* <Footer /> */}
-      </>
+      <Footer /> 
     </div>
   );
 }

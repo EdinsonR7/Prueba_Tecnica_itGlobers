@@ -1,7 +1,20 @@
-.articulos3{
-    display: flex;
-    border: 1px solid rgb(247, 247, 250);
-    border-right-width: 2em;
-    height: 474px;
-    width: 400px;
+.articulo6 img{
+    float: right;
+    width: 175px;
+    height: 150px;
+    position : absolute;
+    top: 2080px;
+    left: 70%
 }
+
+
+
+  .articulo5 img{
+    float: right;
+    width: 682px;
+    height: 400px;
+    position : absolute;
+    top: 2000px;
+    left: -1%
+  
+  }

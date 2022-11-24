@@ -11,7 +11,7 @@
 .landing img{
   float: center;
   border: top 2px;;
-  width: 1375px;
+  width: 1350px;
   height: 800px;
   
 }
@@ -49,7 +49,7 @@
 .boton{
   position: absolute;
   top: 80%;
-  left: 35%;
+  left: 38%;
   width: max-content;
   font-size: 1rem;
   padding: .5rem 7rem;

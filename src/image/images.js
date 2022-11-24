@@ -47,7 +47,7 @@ articules5: [
 ],
 
 articules6:[
-  { neme: sombrilla2},
+  { name: sombrilla2},
 
 ],
 

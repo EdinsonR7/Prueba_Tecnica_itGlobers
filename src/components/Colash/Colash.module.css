@@ -1,4 +1,5 @@
 .colash img{
+    position: absolute;
     margin: auto;
     display: block;
     float: center; 
@@ -6,22 +7,25 @@
     width: 300px;
     height: 250px;
     right: 30%;
-    left: 30%
+    left: 30%;
+    top: 418%;
 }
 
 .text h1{
     text-align: center;
     left: 70px;
+    position: absolute;
     right: 50px;
+    top:405%
 }
 
 .text2 h6{
     text-align: center;
-    position: relative;
+    position: absolute;
     color: gray;
-    left: 5px;
+    left: 6%;
     right: 50px;
-    top: 28px;
+    top: 403%;
 }
 
 .text.text2{

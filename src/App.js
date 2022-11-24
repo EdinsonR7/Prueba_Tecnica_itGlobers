@@ -16,12 +16,12 @@ function App() {
       <LandingPage />
       <Articulos />
       <Articulos1 />
-      {/* <Articulos2 />
-      <Articulos3 /> */}
-      {/* <Articules /> */}
+      <Articulos2 />
+      <Articulos3 /> 
+       {/* <Articules /> */}
       <Colash /> 
       <Form />
-      <Footer />
+      {/* <Footer /> */}
       </>
     </div>
   );

@@ -8,7 +8,7 @@ const Articulos = () => {
     <div>
       <div className={styles.articulos}>
        <div className={styles.textoencima2}>
-       <h2>Pufi ALMOHADA</h2>
+       <h2>Pufi RAIN</h2>
        </div>
        <div className={styles.text1}>
        <p>Descripcion del producto. este es un texto simulado</p>
@@ -22,8 +22,8 @@ const Articulos = () => {
        <div className={styles.image2}>
         {images.articules0.map(e => <img src={e.name} alt="imagen" />)}</div>
        </div>
-       <div className={styles.link}>
-        <Link>SHOP</Link>
+       <div className={styles.link} >
+        <Link className={styles.boton} to={'/'}>SHOP</Link>
        </div>
       </div>
 

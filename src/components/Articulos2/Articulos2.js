@@ -11,6 +11,17 @@ const Articulos2 = () => {
         <div className={styles.articulo4}>
         {images.articules4.map(e => <img src={e.name} alt="imagen" />)}
         </div>
+        <div className={styles.pufi}>
+            <h2>Pufi CART</h2>
+            </div>
+            <div className={styles.parrafo}>
+            <p>Descripcion del producto. Este es un
+                     texto simulado</p>
+            </div>
+            <div className={styles.ver}>
+            <h4>...VER MAS</h4>
+            </div>
+
         </div>
     );
 };

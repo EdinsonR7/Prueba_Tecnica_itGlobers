@@ -5,7 +5,7 @@ import styles from './Footer.module.css'
 const Footer = () => {
     return (
         
-        <div>
+        <div className={styles.container}>
             <div className={styles.redesparr}>
             <h5>SIGUENOS EN</h5>
             </div>
@@ -31,9 +31,9 @@ const Footer = () => {
            <span>TERMINOS & CONDICIONES</span>
          </h6>
          </div>
-            {/* <div className={styles.seguro}>   
+            <div className={styles.seguro}>   
             <h6>COMPRA 100% SEGURA</h6>
-            </div> */}
+            </div>
             <div className={styles.qr}>
             {images.qr.map(e => <img src={e.name} alt="imagen" />)}
             </div>

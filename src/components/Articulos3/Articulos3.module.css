@@ -18,3 +18,35 @@
     left: -1%
   
   }
+
+  
+  .pufi h2{
+    color: rgb(17, 15, 15);
+    vertical-align: text-bottom;
+    position: absolute;
+    text-align: center;
+    top: 2220px;
+    left: 56%;
+    right: 50px;
+  }
+
+  .parrafo p{
+    vertical-align: text-bottom;
+    position: absolute;
+    text-align: center;
+    top: 2270px;
+    left: 55%;
+    right: 50px;
+
+  }
+
+  .ver h4{
+    vertical-align: text-bottom;
+    position: absolute;
+    text-align: center;
+    color: gray;
+    top: 2300px;
+    left: 55%;
+    right: 50px;
+
+  }

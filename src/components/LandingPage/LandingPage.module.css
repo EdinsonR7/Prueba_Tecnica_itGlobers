@@ -48,20 +48,22 @@
 
 .boton{
   position: absolute;
+  border: 1px solid #e6fa08;
   top: 80%;
   left: 38%;
   width: max-content;
-  font-size: 1rem;
+  font-size: 1.5em;
   padding: .5rem 7rem;
-  color: #202c21;
-  background-color: rgb(0, 145, 255);
+  color: #d3d7d4;
+  background-color: transparent;
   border-radius: .3rem;
+  box-shadow: 0 6px 6px rgba(236, 237, 229, 0.91)
 
   
 }
 
 .link{
-  color:rgb(11, 10, 9);
+  color:rgb(227, 134, 41);
   font-family:Arial, Helvetica, sans-serif;
   font-style:oblique;
 }

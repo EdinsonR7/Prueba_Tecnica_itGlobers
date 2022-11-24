@@ -70,35 +70,7 @@ qr: [
     {name: codigoqr1}
   ],
 
-  // icons: [
-  //   {
-  //     name: "ALMOHADAS",
-  //     url1: almohada1,
-  //     url2: almohada2,
-  //     description: "Descripcion del producto, Este es un texto simulado",
 
-  //   },
-  //   {
-  //     name: "RAIN",
-  //     url1: bolsa1,
-  //     url2: bolsa2,
-  //     description: "Descripcion del producto, Este es un texto simulado",
-    
-  //   },
-  //   {
-  //     name: "CART",
-  //     url1: sofaPlaya1,
-  //     url2: sofaPlaya2,
-  //     description: "Descripcion del producto, Este es un texto simulado",
-  //        },
-  //   {
-  //     name: "NAP",
-  //     url1: sombrilla1,
-  //     url2: sombrilla1,
-  //     description: "Descripcion del producto, Este es un texto simulado",
-      
-  //   },
-  //],
    
 
 

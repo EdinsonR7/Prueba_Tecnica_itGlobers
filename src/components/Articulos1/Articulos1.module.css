@@ -11,7 +11,7 @@
 
       .articulos2 img{
         float: right;
-        width: 150px;
+        width: 190px;
         height: 150px;
         position : absolute;
         top: 210%;
@@ -20,6 +20,33 @@
       }
 
       .pufi h2{
-        color: red;
+        color: rgb(17, 15, 15);
+        vertical-align: text-bottom;
+        position: absolute;
+        text-align: center;
+        top: 1420px;
+        left: 55%;
+        right: 50px;
+      }
+
+      .parrafo p{
+        vertical-align: text-bottom;
+        position: absolute;
+        text-align: center;
+        top: 1460px;
+        left: 55%;
+        right: 50px;
+
+      }
+
+      .ver h4{
+        vertical-align: text-bottom;
+        position: absolute;
+        text-align: center;
+        color: gray;
+        top: 1490px;
+        left: 55%;
+        right: 50px;
+
       }
       

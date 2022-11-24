@@ -37,13 +37,18 @@
 
 .input{
     margin:100%;
+    padding: 5.rem 7rem;
     color:red;
-    border-radius: 5px;
+    font-size: 1.5em;
+    border: 1 solid black;
     position: absolute;
     text-align: center;
     text-emphasis: none;
-    left: 498px;
+    width:50px;
+    height:30px;
+    left: 485px;
     top: 35px;
+    
    
    
    
@@ -58,7 +63,8 @@
 .button {
     border-radius: 5px;
     position: relative;
-    left: 734px;
+    left: 720px;
     top: 94px;
+
 
 }
